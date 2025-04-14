@@ -35,6 +35,7 @@ Inspired by DALL·E-style models, this project demonstrates a fundamental unders
 
 git clone https://github.com/adityatyagi11/Text_to_Image.git
 cd Text_to_Image
+
 2. Prepare the Dataset
 Download the Flickr8k dataset and place the images and annotation files in the appropriate folders (see dataset loader structure in train.py).
 
