@@ -1,0 +1,8 @@
+matplotlib
+tqdm
+pillow
+numpy
+requests
+nltk
+pandas
+ipykernel
